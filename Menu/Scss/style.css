@@ -1,0 +1,154 @@
+body {
+  background-color: skyblue;
+}
+
+#header {
+  background-color: black;
+  padding: 83px;
+  height: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+#header #header__.titulo img {
+  width: 100px;
+  height: auto;
+}
+#header #header__.titulo img__ menu ul {
+  list-style-type: none;
+}
+#header #header__.titulo img__ menu ul li {
+  display: inline block;
+}
+#header #header__.titulo img__ menu ul li a {
+  border: 2px solid white;
+  padding: 5px;
+  margin: 0 10px;
+  color: yellow;
+  float: left;
+  text-decoration: none;
+}
+
+#mensaje {
+  background-image: url(/Img/discos-freno-volkswagen.jpg);
+  background-position: top left;
+  background-size: cover;
+  color: black;
+  height: 250px;
+  width: auto;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 25px 0px;
+}
+#mensaje__mensaje__import h1 {
+  -moz-text-align-last: auto;
+       text-align-last: auto;
+}
+
+.texto__parrafo .texto__parrafo__texto__parrafo {
+  color: gold;
+}
+
+#consulta_ consulta {
+  margin-top: 20px;
+}
+
+#parrafo .parrafo__ {
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#parrafo__parrafo__span {
+  background-color: red;
+}
+
+#parrafo_boton {
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#parrafo {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.carousel-iner {
+  max-width: 39rem;
+  max-height: 39rem;
+}
+
+/*MAPS-*/
+.icon-instagram {
+  background-color: red;
+}
+
+.icon-facebook {
+  background-color: blue;
+}
+
+#foter {
+  background-color: green;
+}
+
+/* Registro*/
+#header {
+  background-color: black;
+  padding: 83px;
+  height: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+#registro {
+  -moz-text-align-last: auto;
+  text-align-last: auto;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#parrafo_boton {
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#parrafo {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.carousel-iner {
+  max-width: 39rem;
+  max-height: 39rem;
+}
+
+/*MAPS-*/
+.icon-instagram {
+  background-color: red;
+}
+
+.icon-facebook {
+  background-color: blue;
+}
+
+#foter {
+  background-color: green;
+}
+/*# sourceMappingURL=style.css.map *//*# sourceMappingURL=style.css.map */
